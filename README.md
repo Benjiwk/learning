@@ -1,5 +1,5 @@
 # learning
-adding changes befor rebase commit
+adding changes befor rebase commit even more confilcting stuff
 ##new section
 this is not the most importent section
 ok maybe it is
