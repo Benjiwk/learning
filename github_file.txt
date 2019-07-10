@@ -1,7 +1,7 @@
 copyright comment
 a new title for the work
 
-adding a line for rebase example
+adding a line for rebase example, more change from myfeature
 this is a file added in git hub itlef
 
 edited cmd line
