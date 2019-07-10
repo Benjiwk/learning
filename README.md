@@ -5,9 +5,8 @@ this is not the most importent section
 
 ## playing with 
 adding comiited chand
-hello how are you
-
-## conclusion
+a like to play
+## summery
 chanegs not commited
 
 copyright!!!!!!!!!!
