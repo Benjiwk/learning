@@ -5,3 +5,5 @@ adding a line for rebase example, more change from myfeature
 this is a file added in git hub itlef
 
 edited cmd line
+
+a change on git hub
